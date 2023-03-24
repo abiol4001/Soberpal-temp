@@ -22,7 +22,7 @@ const Career = () => {
             Grow your Career with us at SoberPal
           </div>
           <p>
-            We are abunch of bold, creative and imaginative individuals
+            We are a bunch of bold, creative and imaginative individuals
             collectively driving the effort of encouraging reduction in alcohol
             intake and ensuring people live a healthy lifestyle. Join us and
             contribute to this effort.
